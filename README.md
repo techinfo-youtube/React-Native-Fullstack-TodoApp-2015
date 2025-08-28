@@ -1,6 +1,5 @@
 # React-Native-Fullstack-TodoApp-2015
-
-#  Watch complete tutorial video from here
+Watch complete tutorial video from here
 https://youtu.be/9aruVsirv5w
 
 In this video, you'll learn how to build a Full-Stack ToDo Mobile App using React Native, Node.js, Express.js, and MongoDB from scratch! Perfect for beginners and intermediate developers looking to build a real-world CRUD app with authentication and persistent storage.
